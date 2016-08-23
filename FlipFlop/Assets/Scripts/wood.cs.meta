@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3acaeb59bdfd0544fb894c1ad3dac040
+timeCreated: 1450026923
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - woodobj: {fileID: 159330, guid: 79410e15bcd74c1498e28b128618d87c, type: 2}
+  - whitespike: {fileID: 197350, guid: f0837e27138a7214ab7a3e62729a5a7e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

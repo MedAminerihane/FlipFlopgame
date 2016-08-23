@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="FlipFlop.sln" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\backgroundSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\wood.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="60" Column="4" />
+      <File FileName="Assets\Scripts\ScoreScrypt.cs" Line="62" Column="13" />
+      <File FileName="Assets\Scripts\Util.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FunkyRunStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinaleMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FbHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Distance.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFolow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\user\Documents\FlipFlop\Assets\Scripts\PlayerControl.cs" line="67" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
